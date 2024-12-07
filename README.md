@@ -2,7 +2,7 @@
 Weekly Demo Videos from Lectures
 
 Week 1: Introduction to Cloud Native Platforms
-LINK
+  GCP --> https://github.com/meerakpa/msds434/blob/main/Google%20Cloud%20Instance%20Creation.mp4
 
 Week 2: Workflow Development
 LINK
