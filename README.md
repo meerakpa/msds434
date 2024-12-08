@@ -1,5 +1,7 @@
 # MSDS434: Data Science and Cloud Computing
-Weekly Demo Videos from Lectures --> https://drive.google.com/drive/folders/1FsoXd_SRiY7VdDk9AbPEIYpUfKLWRS6c?usp=sharing
+Weekly Demo Videos from Lectures 
+
+NOTE: Not all the videos are able to be uploaded here due to size but here is the google drive folder with all the demo videos: https://drive.google.com/drive/folders/1FsoXd_SRiY7VdDk9AbPEIYpUfKLWRS6c?usp=sharing
 
 **Week 1: Introduction to Cloud Native Platforms**
 
@@ -15,9 +17,9 @@ Weekly Demo Videos from Lectures --> https://drive.google.com/drive/folders/1Fso
 
 **Week 3: Platform as a Service and Containerized Development in Cloud Native**
 
-   GCP --> 
+   GCP --> https://github.com/meerakpa/msds434/blob/main/GCP%20App%20Deployment.mp4
    
-   AWS -->
+   AWS --> https://github.com/meerakpa/msds434/blob/main/AWS%20App%20Deployment.mp4
 
 **Week 4: Cloud-Native Database Choice and Design**
 
@@ -31,7 +33,7 @@ Weekly Demo Videos from Lectures --> https://drive.google.com/drive/folders/1Fso
 
 **Week 6: Managed Machine Learning Platforms**
 
-  GCP --> 
+  GCP --> https://github.com/meerakpa/msds434/blob/main/wk6%20automl.mp4
 
 **Week 7: Microservice-based Machine Learning Model Implementation**
 
@@ -43,8 +45,8 @@ Weekly Demo Videos from Lectures --> https://drive.google.com/drive/folders/1Fso
 
 **Week 9: Application and System Monitoring**
 
-  GCP --> 
+  GCP --> https://github.com/meerakpa/msds434/blob/main/GCP%20Monitoring.mp4
 
 **Week 10: Final Deployment and Maintenance**
 
-  GCP --> 
+  GCP --> https://github.com/meerakpa/msds434/blob/main/wk10%20github%20actions.mp4
